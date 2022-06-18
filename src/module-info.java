@@ -1,0 +1,2 @@
+module firstjavaclass {
+}
